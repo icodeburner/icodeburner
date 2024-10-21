@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anshul</h1>
 <h3 align="center">Web | Android Developer</h3>
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlaN1llHKI2YO8YoWHvgTrxT7FnGkfXv8EXjswqjWPlKvjo5oc3tHUYpR8g8Iz_72Kf86eKf613JzKFonkIaBskB4uGwDFN-COfLRIHAWZYqd3nR78o7o14FYBLt9UwJ3hEPYKcNEx3pFtmH6ZubwGshhX_ouTrfLksFn7Z8pBOaV0W3zMB-e1BzeMdfeZ/s320/Screenshot%202024-08-15%20at%2012.12.49%E2%80%AFAM.png" alt="icodeburner" align="right" width="400px">
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlaN1llHKI2YO8YoWHvgTrxT7FnGkfXv8EXjswqjWPlKvjo5oc3tHUYpR8g8Iz_72Kf86eKf613JzKFonkIaBskB4uGwDFN-COfLRIHAWZYqd3nR78o7o14FYBLt9UwJ3hEPYKcNEx3pFtmH6ZubwGshhX_ouTrfLksFn7Z8pBOaV0W3zMB-e1BzeMdfeZ/s320/Screenshot%202024-08-15%20at%2012.12.49%E2%80%AFAM.png" alt="icodeburner" align="right" width="400px" border-radius="6px">
 
 - 🌱 I’m currently learning **Android development**
 
