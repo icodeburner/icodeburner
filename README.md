@@ -22,9 +22,9 @@ I focus on building **responsive**, **scalable**, and **user-friendly** web appl
 
 ---
 
-### 🧰 Tech Stack & Tools
+### Tech Stack & Tools
 
-#### 👨‍🎨 Frontend  
+#### Frontend  
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
@@ -32,29 +32,29 @@ I focus on building **responsive**, **scalable**, and **user-friendly** web appl
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat-square)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwind-css&logoColor=white&style=flat-square)
 
-#### 🛠️ Backend  
+#### Backend  
 ![Node.js](https://img.shields.io/badge/-NodeJS-339933?logo=node.js&logoColor=white&style=flat-square)
 ![Express.js](https://img.shields.io/badge/-ExpressJS-000000?logo=express&logoColor=white&style=flat-square)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat-square)
 
-#### 🗄️ Database  
+#### Database  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
 
-#### ⚙️ Tools  
+#### Tools  
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat-square)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square)
 
-#### ☁️ DevOps & Cloud  
+#### DevOps & Cloud  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat-square)
 
 ---
 
-### 📫 Connect With Me
+### Connect With Me
 
-- 📧 Email: anshulsikarwar.dev@gmail.com  
-- 💼 Portfolio: [Your Portfolio Link]  
-- 🐙 GitHub: [@AnshulSikarwar](https://github.com/AnshulSikarwar)
+- Email: contact@icodeburner.com 
+- Portfolio: [@icodeburner](icodeburner.com)  
+- GitHub: [@AnshulSikarwar](https://github.com/AnshulSikarwar)
