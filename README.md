@@ -56,5 +56,4 @@ I focus on building **responsive**, **scalable**, and **user-friendly** web appl
 ### Connect With Me
 
 - Email: contact@icodeburner.com 
-- Portfolio: [@icodeburner](icodeburner.com)  
-- GitHub: [@AnshulSikarwar](https://github.com/AnshulSikarwar)
+- Portfolio: icodeburner.com
