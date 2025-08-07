@@ -1,20 +1,60 @@
-<h1 align="center">Hi 👋, I'm Anshul</h1>
-<h3 align="center">Full Stack Web Developer</h3>
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlaN1llHKI2YO8YoWHvgTrxT7FnGkfXv8EXjswqjWPlKvjo5oc3tHUYpR8g8Iz_72Kf86eKf613JzKFonkIaBskB4uGwDFN-COfLRIHAWZYqd3nR78o7o14FYBLt9UwJ3hEPYKcNEx3pFtmH6ZubwGshhX_ouTrfLksFn7Z8pBOaV0W3zMB-e1BzeMdfeZ/s320/Screenshot%202024-08-15%20at%2012.12.49%E2%80%AFAM.png" alt="icodeburner" align="right" width="400px" border-radius="6px">
+![Profile Views](https://img.shields.io/badge/Profile%20Views-1,154-silver)
+![Followers](https://img.shields.io/badge/Followers-3-silver?logo=github)
+![Stars](https://img.shields.io/badge/Stars-58-silver?logo=github)
 
-- 👨‍💻 All of my projects are available at [https://icodeburner.com](https://icodeburner.com)
-
-- 📫 How to reach me **contact@icodeburner.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/anshul sikarwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anshul sikarwar" height="30" width="40" /></a>
-<a href="https://instagram.com/icodeburner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="icodeburner" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQG66lmvKAQghQ/profile-displaybackgroundimage-shrink_350_1400/B56ZgZvjnEHUAY-/0/1752778554798?e=1757548800&v=beta&t=-KBErxSEto_jJ07aF6cG9c6AiLmYo3-UcXp9KOjtoDk" alt="banner" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=icodeburner&show_icons=true&locale=en&layout=compact" alt="icodeburner" /></p>
+### 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=icodeburner&" alt="icodeburner" /></p>
+Hello, I'm **Anshul Sikarwar**, from **Aligarh, Uttar Pradesh**, currently pursuing **MCA** from **GLA University, Mathura**. I'm a passionate **Full Stack Developer (MERN) | MongoDB • Express.js • React • Node.js • REST APIs • Socket.IO • Docker • AWS • Kubernetes • Git • CI/CD.**
+
+I focus on building **responsive**, **scalable**, and **user-friendly** web applications using **clean code** and modern **UI/UX principles**.
+
+- **Evolving**
+- Contributor to open-source MERN-based projects
+- Advocating for clean code, minimalism, and functional design
+- Always up for collaboration on full-stack or cloud-based projects
+- **I treat GitHub like my gym – every commit is a rep.**
+
+---
+
+### 🧰 Tech Stack & Tools
+
+#### 👨‍🎨 Frontend  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![React.js](https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=white&style=flat-square)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat-square)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwind-css&logoColor=white&style=flat-square)
+
+#### 🛠️ Backend  
+![Node.js](https://img.shields.io/badge/-NodeJS-339933?logo=node.js&logoColor=white&style=flat-square)
+![Express.js](https://img.shields.io/badge/-ExpressJS-000000?logo=express&logoColor=white&style=flat-square)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat-square)
+
+#### 🗄️ Database  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
+
+#### ⚙️ Tools  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat-square)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square)
+
+#### ☁️ DevOps & Cloud  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat-square)
+
+---
+
+### 📫 Connect With Me
+
+- 📧 Email: anshulsikarwar.dev@gmail.com  
+- 💼 Portfolio: [Your Portfolio Link]  
+- 🐙 GitHub: [@AnshulSikarwar](https://github.com/AnshulSikarwar)
