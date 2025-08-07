@@ -8,7 +8,7 @@
 
 ---
 
-### 👨‍💻 About Me
+###About Me
 
 Hello, I'm **Anshul Sikarwar**, from **Aligarh, Uttar Pradesh**, currently pursuing **MCA** from **GLA University, Mathura**. I'm a passionate **Full Stack Developer (MERN) | MongoDB • Express.js • React • Node.js • REST APIs • Socket.IO • Docker • AWS • Kubernetes • Git • CI/CD.**
 
