@@ -3,7 +3,7 @@
 ![Stars](https://img.shields.io/badge/Stars-58-silver?logo=github)
 
 <p align="center">
-  <img src="[https://media.licdn.com/dms/image/v2/D5616AQG66lmvKAQghQ/profile-displaybackgroundimage-shrink_350_1400/B56ZgZvjnEHUAY-/0/1752778554798?e=1757548800&v=beta&t=-KBErxSEto_jJ07aF6cG9c6AiLmYo3-UcXp9KOjtoDk](https://media.licdn.com/dms/image/v2/D5616AQG66lmvKAQghQ/profile-displaybackgroundimage-shrink_350_1400/B56ZgZvjnEHUAY-/0/1752778554798?e=1761782400&v=beta&t=bntOo_f8nYT0qAeNoltVP4Ad-LkD1abwoI8A-dkwRxQ)" alt="banner" />
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQG66lmvKAQghQ/profile-displaybackgroundimage-shrink_350_1400/B56ZgZvjnEHUAY-/0/1752778554798?e=1757548800&v=beta&t=-KBErxSEto_jJ07aF6cG9c6AiLmYo3-UcXp9KOjtoDk" alt="banner" />
 </p>
 
 ---
